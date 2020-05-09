@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.posts {
+  display: flex;
+  justify-content: space-around;
+}
+
+.post {
+  border: 1px solid black;
+  width: 30%;
+}
+
+.welcome {
+  font-weight: bolder;
+  color: red;
+}
+
+.ads {
+  width: 100vw;
+  height: 75px;
+  border: 1px solid black;
+  margin-bottom: 2%;
+}
