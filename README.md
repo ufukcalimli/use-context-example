@@ -1,3 +1,6 @@
+This is an example project to demonstrate how Context API and useContext is being used. This is part of post graduation module study in Hack Your Future. Here is an essay about simple explanation how these two concept be used in a React application. https://docs.google.com/document/d/1oW9s58W3a_F5Z1wyoLaXm0lEwNCiLLi-Q_CwK1ORrlE/edit?usp=sharing
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
